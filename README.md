@@ -1,5 +1,6 @@
 #Descrição do TP
- Optei por Criar uma aplicação de Console utilizando SQLite como banco de dados. Implementarei funcionalidades básicas de CRUD (Create, Read, Update,
+
+Optei por Criar uma aplicação de Console utilizando SQLite como banco de dados. Implementarei funcionalidades básicas de CRUD (Create, Read, Update,
 Delete) para um recurso escolhido para gerenciamento (livros). O recurso é suficientemente simples para ser representado por apenas uma tabela no banco de dados. Desenvolverei Desenvolva uma aplicação de linha de comando que permita ao usuário interagir com o recurso. Implementarei as seguintes funcionalidades:
 -Listar Recursos 
 -Buscar por ID
